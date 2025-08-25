@@ -12,6 +12,15 @@
   One platform for <b>Resume Optimization</b>, <b>RAG Chat</b>,  
   <b>Interview Practice</b>, and <b>Career Analytics</b>.  
 </p>
+---
+
+## 📹 Demo  
+
+Check out the walkthrough video of the platform here:  
+
+[![Watch the Demo](https://img.shields.io/badge/▶️%20Watch-Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1G0AIWdeEvlrFFnaopj7z5lCUTRZG9yIS/view?usp=sharing)
+
+---
 
 ---
 
