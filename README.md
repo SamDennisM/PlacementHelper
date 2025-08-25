@@ -1,15 +1,17 @@
-# 🚀 Integrated Career Platform  
+<h1 align="center">🚀 Integrated Career Platform</h1>
 
-![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=yellow)  
-![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-1E90FF?logo=chainlink&logoColor=white)  
-![Agno](https://img.shields.io/badge/Agentic-AI%20Framework-purple)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Powered%20by-LangChain-1E90FF?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic-AI%20Framework-purple" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 
-> An **AI-powered career development suite** that integrates **Streamlit apps**,  
-> **LangChain tools**, and the **Agno Agentic AI framework** for:  
-> ✅ Resume optimization, ✅ Retrieval-based chat, ✅ Placement dashboards,  
-> ✅ Interview simulations, and ✅ LLM evaluation metrics.  
+<p align="center">
+  One platform for <b>Resume Optimization</b>, <b>RAG Chat</b>,  
+  <b>Interview Practice</b>, and <b>Career Analytics</b>.  
+</p>
 
 ---
 
